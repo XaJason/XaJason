@@ -1,12 +1,3 @@
-# 💫 About Me
-
-Hey! I'm Jason, a software engineering student at Polytechnique Montréal who gets excited about turning data into solutions that actually help people—like building HomeSafe to help Montreal residents identify environmental hazards in their homes. I love the competitive edge of hackathons (recently took 1st at CS Games 2025) and have been diving deep into financial markets through trading simulations, which sparked my fascination with how technology can revolutionize finance. Currently seeking a summer 2026 fintech internship where I can combine my full-stack development skills with my passion for building the future of financial technology.
-
-## 🏆 Recent Wins
-- 🥇 **CS Games 2025** - 1st Place Team (Université Laval)
-- 🥈 **StarHACK 2025** - 2nd Place Team (Polytechnique Montreal)
-- 🥈 **Stock Market Simulation** - 2nd Place Team, Top 5% Individual
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasonxa) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonxa@icloud.com)
@@ -21,7 +12,3 @@ Hey! I'm Jason, a software engineering student at Polytechnique Montréal who ge
 
 **Backend & Tools:**  
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=XaJason&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=XaJason&theme=transparent&hide_border=true)
